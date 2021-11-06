@@ -1,0 +1,46 @@
+Smith Jr., Joe
+111-22-3333 3
+Physics I
+A 5
+English 1A
+B 4
+English 1B
+F 4
+Jones, Bill
+111-11-1111 4
+Physics I
+A 5
+Chemistry 1A
+B 5
+Computer Science 1
+A 4
+Chemistry 1 Lab
+B 1
+Brown, Nancy
+222-11-1111 13
+Physics I
+A 5
+English 1A
+B 4
+English 1B
+F 4
+Physics II
+A 5
+Chemistry 1A
+B 5
+Computer Science 1
+A 4
+Chemistry 1A Lab
+B 1
+Physics I Lab
+A 1
+Physics II Lab
+A 1
+Physics III
+A 5
+Physics III Lab
+A 1
+Chemistry 1B
+A 5
+Chemistry 1B Lab
+A 1
